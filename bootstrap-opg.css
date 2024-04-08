@@ -1,0 +1,24 @@
+.navbar-toggler {
+    border: none;
+}
+
+.btn-red {
+    background: #ff6060;
+    color: white;
+}
+
+.btn-red:hover {
+    background: #ed3434;
+    color: white;
+}
+
+.bi {
+    color: black;
+}
+
+.footer {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 0 13px;
+    background-color: rgb(226, 225, 225) !important;
+}
